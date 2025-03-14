@@ -1,0 +1,30 @@
+html,
+body {
+    height: 100%;
+    font-size: 1rem;
+    font-family: "Poppins", sans-serif;
+}
+
+
+.page-header {
+    margin-top: 3.5rem;
+    font-size: 1.25rem;
+    color: #ffff;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2 {
+    font-weight: 700;
+    font-style: normal;
+}
+
+.gradient {
+    background: rgb(18,0,36);
+    background: linear-gradient(90deg, rgba(18,0,36,1) 0%, rgba(9,9,121,1) 31%, rgba(255,0,189,1) 100%);
+}
+
+section {
+    background-color: #ff5500;
+    min-height: 100vh;
+}
