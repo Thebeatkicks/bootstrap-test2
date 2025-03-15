@@ -26,5 +26,22 @@ h2 {
 
 section {
     background-color: #ff5500;
-    min-height: 100vh;
+    font-size: 1.25rem;
+    color: #ffff;
+    font-weight: 400;
+    font-style: normal;
+    margin: -0.1rem;
+    padding-bottom: 5rem;
+}
+
+.font-nav {
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+
+.font-nav-brand {
+    color: #fff;
+    font-weight: 600;
+    font-size: 1.5rem;
 }
